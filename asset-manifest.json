@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatai/static/css/main.d4238a6a.css",
+    "main.js": "/chatai/static/js/main.2d65d4bb.js",
+    "static/js/453.a6664f02.chunk.js": "/chatai/static/js/453.a6664f02.chunk.js",
+    "index.html": "/chatai/index.html",
+    "main.d4238a6a.css.map": "/chatai/static/css/main.d4238a6a.css.map",
+    "main.2d65d4bb.js.map": "/chatai/static/js/main.2d65d4bb.js.map",
+    "453.a6664f02.chunk.js.map": "/chatai/static/js/453.a6664f02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4238a6a.css",
+    "static/js/main.2d65d4bb.js"
+  ]
+}
